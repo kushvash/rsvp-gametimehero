@@ -19,9 +19,9 @@ This project contains a modular `RsvpService` built in TypeScript for managing p
 
 ## How to Run
 
-1. **Install dependencies**:
+- **Install dependencies**:
    npm install
-2. **Start the application**:
+- **Start the application**:
    npm run start
 
 ### Acknowledgements
