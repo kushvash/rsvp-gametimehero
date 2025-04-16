@@ -8,8 +8,6 @@ This project contains a modular `RsvpService` built in TypeScript for managing p
 - Get a list of confirmed attendees
 - Count total, confirmed, and declined responses
 - Uses TypeScript interfaces for data modeling
-- Supports dependency injection (e.g., Logger)
-- Follows clean architecture principles
 
 ## Structure
 
