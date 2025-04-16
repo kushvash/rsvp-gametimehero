@@ -1,0 +1,26 @@
+{
+  "name": "rsvp-gametimehero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushvash/rsvp-gametimehero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushvash/rsvp-gametimehero/issues"
+  },
+  "homepage": "https://github.com/kushvash/rsvp-gametimehero#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
